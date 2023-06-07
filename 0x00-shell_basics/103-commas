@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap1 | awk
+ls -map | sort -k1.1
