@@ -1,0 +1,3 @@
+#!/bin/sh
+current_user=$(whoami)
+echo "hello $current_user"
