@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Kill the 7-highlander process
-kill -TERM $(pgrep 7-highlander)
-
